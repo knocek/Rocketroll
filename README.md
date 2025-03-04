@@ -55,7 +55,7 @@ Problem: Executable file not generated
 Ensure all SFML paths (include and lib) are properly set up in the project settings.
 
 
-## Screenshots
+## 📷 Screenshots
 ### Main menu
 ![Main Menu Screenshot](https://github.com/knocek/Rocketroll/blob/main/screenshots/main-menu.png) 
 
@@ -77,7 +77,7 @@ Ensure all SFML paths (include and lib) are properly set up in the project setti
 - [Download SFML](https://www.sfml-dev.org/download.php)
 
 
-## Authors
+## ✌️ Authors
 - [Karolina](https://github.com/knocek)
 - [Nikodem5](https://github.com/Nikodem5)
 - [Mateusz](https://github.com/mateuszmzzz)
